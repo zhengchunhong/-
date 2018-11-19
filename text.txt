@@ -1,1 +1,8 @@
-
+查找更新
+stage
+commit
+push
+ 
+ 本地与库同步
+ fetch
+ merge

@@ -1,8 +1,8 @@
-查找更新
+查找更新bash
 stage
 commit
 push
  
- 本地与库同步
+ 本地与库同步GUI
  fetch
  merge
